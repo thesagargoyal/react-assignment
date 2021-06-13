@@ -1,10 +1,12 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
+import Common from './Common';
 
 const About = () => {
 
   return (
     <>
-        <h1>Welcome About Page</h1>
+        <Common name="Welcome to About Page" visit="/contact" btName="Contact Now" />
     </>
   );
 
