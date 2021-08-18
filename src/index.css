@@ -14,7 +14,7 @@
 }
 
 .menu_active{
-  border-bottom: 1px solid #565387;
+  border-bottom: 1px solid rgb(60, 161, 228);
 }
 .navbar a:hover{
   color: rgb(60, 161, 228) !important;
